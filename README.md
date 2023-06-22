@@ -24,9 +24,9 @@ Adicionalmente podría ser necesaria la semilla de inicialización del algoritmo
 
 ## Ideas / Divagaciones
 
-Aparte de las letras de los temas, hemos:
+Aparte de las letras de los temas:
 
-- Revisado las imágenes en busca de algún efecto. La primera de ellas parece estar manipulada (ocupa distinto a las otras 2 y en número de página está editado). Pero no se ha encontrado nada relevante.
+- Hemos revisado las imágenes en busca de algún efecto. La primera de ellas parece estar manipulada (ocupa distinto a las otras 2 y en número de página está editado). Pero no se ha encontrado nada relevante.
 
 - El poema que se transparenta en la tercera foto es *Sin* del mismo libro *Hilos* al que pertenece *El pez* (la letra está en `Chantal_Maillard_SIN.txt`).
 
