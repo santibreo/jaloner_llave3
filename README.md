@@ -82,22 +82,27 @@ A día de hoy 2 de los 3 temas encriptados ya se han averiguado:
 - [llave 2](https://www.youtube.com/watch?v=sBRUuJZIO9Y): El link del vídeo de YT estaba en un
 fotograma del vídeo de la llave 1.
 
-  **Descripción**: La última llave se podrá conseguir a través del siguiente canal de telegram [](https://t.me/+bsIzOWziGRA5MWFk) a las 13:47h (hora española) el día 1 de junio de 2023.
+  **Descripción**: La última llave se podrá conseguir a través del siguiente canal de telegram <https://t.me/+bsIzOWziGRA5MWFk> a las 13:47h (hora española) el día 1 de junio de 2023.
 
 
 En el canal de telegram que aparece en la descripción del segundo vídeo aparecieron las 3
-imágenes del poema [El pez](https://raw.githubusercontent.com/santibreo/jaloner_llave3/main/Chantal_Maillard_EL_PEZ.txt) de Chantal Maillard (que pueden verse más arriba) y el alphanumérico `FkDY+3JK5pEtm3jChcNSz7Ig2BjpQb8L+9px9oV7vetMWwGU1DX1Phuw+Ku1pzV5sOEPoqIa7DzFqDA4YrVTuw==`.
+imágenes del poema [El pez](https://raw.githubusercontent.com/santibreo/jaloner_llave3/main/Chantal_Maillard_EL_PEZ.txt) de Chantal Maillard (que pueden verse más arriba) y el código alphanumérico `FkDY+3JK5pEtm3jChcNSz7Ig2BjpQb8L+9px9oV7vetMWwGU1DX1Phuw+Ku1pzV5sOEPoqIa7DzFqDA4YrVTuw==`.
 
-Hasta ahora la hipótesis más razonable es que el código de Telegram es el resultado de encriptar AES el link (o el hash) del vídeo de YT de la tercera llave. La clave de desencriptación debe ser de 16, 24 ó 32 caracteres y guardar relación con el resto de piezas del puzzle.
+La clave `GGSÄÄción:` permite decodificar el código, que resultaba en este link: <https://llegaraotro.uno/wp-login.php?itsec-hb-token=iVBcPbA13QhjmDSX33HWY1337R)>.
+Al introducir un *¿Quién?* y un *¿Cuándo?* erróneos aparece el siguiente mensaje de error:
 
-Adicionalmente podría ser necesaria la semilla de inicialización del algoritmo, que no tiene limitación de caracteres pero cuya longitud suele ser similar a la de la clave.
+> **inconexo: palabra sin referente**.
+>
+>  Cuando fallas alguien tiene más posibilidaded de acertar.
+
+Además la página renderiza un `<div>` sin contenido que tiene la clase CSS `en-el-error-esta-el-acierto` asociada con el contenido: "busca en el error".
 
 
 ## Ideas / Divagaciones
 
 Aparte de las letras de los temas:
 
-- Hemos revisado las imágenes en busca de algún efecto. La primera de ellas parece estar manipulada (ocupa distinto a las otras 2 y en número de página está editado). Pero no se ha encontrado nada relevante.
+- Hemos revisado las imágenes en busca de algún efecto. La primera de ellas parece estar manipulada (ocupa distinto a las otras 2 y el número de página está editado). Pero no se ha encontrado nada relevante (aparte del '55 oner' en lugar del número de página).
 
 - El poema que se transparenta en la tercera foto es [Sin](https://raw.githubusercontent.com/santibreo/jaloner_llave3/main/Chantal_Maillard_SIN.txt) del mismo libro *Hilos* al que pertenece *El pez*.
 
