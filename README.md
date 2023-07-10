@@ -88,7 +88,7 @@ fotograma del vídeo de la llave 1.
 En el canal de telegram que aparece en la descripción del segundo vídeo aparecieron las 3
 imágenes del poema [El pez](https://raw.githubusercontent.com/santibreo/jaloner_llave3/main/Chantal_Maillard_EL_PEZ.txt) de Chantal Maillard (que pueden verse más arriba) y el código alphanumérico `FkDY+3JK5pEtm3jChcNSz7Ig2BjpQb8L+9px9oV7vetMWwGU1DX1Phuw+Ku1pzV5sOEPoqIa7DzFqDA4YrVTuw==`.
 
-La clave `GGSÄÄción:` permite decodificar el código, que resultaba en este link: <https://llegaraotro.uno/wp-login.php?itsec-hb-token=iVBcPbA13QhjmDSX33HWY1337R)>.
+La clave `GGSÄÄción:` permite decodificar el código, que resultaba en este link: <https://llegaraotro.uno/wp-login.php?itsec-hb-token=iVBcPbA13QhjmDSX33HWY1337R>.
 Al introducir un *¿Quién?* y un *¿Cuándo?* erróneos aparece el siguiente mensaje de error:
 
 > **inconexo: palabra sin referente**.
